@@ -1,0 +1,50 @@
+/*home*/
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/*about*/
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/*portfolio*/
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+/*contact*/
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+
+.nav-bar ul li {
+    font-family: century;
+    font-size: 10px;
+    font-weight: bold;
+}
+.nav-bar ul {
+    display: flex;
+    list-style: none;
+    margin: 10px 0px;
+}
+.main {
+    right: 32%;
+    top: 31%;
+}
+#home, #home::before{
+    height: 500px;
+}
+
+
+
